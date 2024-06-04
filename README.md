@@ -38,7 +38,7 @@ The Snake game is a classic arcade game where the player maneuvers a line (the "
 2. Navigate to the project directory:
 
     ```bash
-    cd snake-game
+    cd snake
     ```
 
 3. Install the required dependencies:
