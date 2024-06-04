@@ -32,7 +32,7 @@ The Snake game is a classic arcade game where the player maneuvers a line (the "
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/snake-game.git
+    git clone https://github.com/kbtgroup/snake.git
     ```
 
 2. Navigate to the project directory:
